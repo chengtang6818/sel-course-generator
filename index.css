@@ -1,0 +1,7 @@
+/* 基础样式 - 由Tailwind CSS提供，这个文件作为占位符 */
+/* 实际样式通过Tailwind CDN加载 */
+
+body {
+  margin: 0;
+  padding: 0;
+}
