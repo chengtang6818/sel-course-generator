@@ -1,0 +1,5 @@
+{
+  "name": "SEL课程文本生成器 (SEL Course Text Generator)",
+  "description": "An application that generates course content for parents based on Social-Emotional Learning (SEL) dimensions, skills, and age groups, utilizing a knowledge base and the Gemini API.",
+  "requestFramePermissions": []
+}
